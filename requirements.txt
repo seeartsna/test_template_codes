@@ -1,0 +1,5 @@
+# requirements.txt
+shapely
+pyproj
+geopandas
+folium
